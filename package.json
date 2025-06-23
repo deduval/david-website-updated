@@ -2,7 +2,7 @@
   "name": "david-website-updated",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://yourusername.github.io/david-website-updated",
+  "homepage": "https://deduval.github.io/david-website-updated",
   "dependencies": {
     "@testing-library/dom": "^10.4.0",
     "@testing-library/jest-dom": "^6.6.3",
